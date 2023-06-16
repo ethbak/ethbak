@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ethan</h1>
 <h3 align="center">A technology intern and Cornell undergrad.</h3>
 
-- 🔭 I’m currently working with Price Financial on a [Linkedin Filter Bot](www.google.com)
+- 🔭 I’m currently working with [Price Financial](pricefm.com) on a Google Search API Linkedin Filter Bot
 
-- 🌱 I’m currently learning **C#, C++, .NET, PowerBI, and React.js**
+- 🌱 I’m currently learning **C#, C++, .NET, PowerBI, Oracle, and React.js**
 
 - 📫 How to reach me **eeb73@cornell.edu**
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ethbak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethbak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swag" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ethanbaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swag" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
