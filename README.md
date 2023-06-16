@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ethan</h1>
 <h3 align="center">A technology intern and Cornell undergrad.</h3>
 
-- 🔭 I’m currently working with [Price Financial](pricefm.com) on a Google Search API Linkedin Filter Bot
+- 🔭 I’m currently working with [Price Financial](https://www.pricefm.com) on a Google Search API Linkedin Filter Bot
 
 - 🌱 I’m currently learning **C#, C++, .NET, PowerBI, Oracle, and React.js**
 
