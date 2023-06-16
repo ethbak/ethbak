@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, C++, .NET, PowerBI, Oracle, and React.js**
 
-- 📫 How to reach me **eeb73@cornell.edu**
+- 📫 Reach me at **eeb73@cornell.edu**
 
 - 📄 Know about my experiences [My Resume](https://www.linkedin.com/in/ethbak/overlay/1635529992399/single-media-viewer/?profileId=ACoAADl7IWEBK2Tbqdc--9ZwIt3cP0G4da72tqw)
 
