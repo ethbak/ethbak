@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Ethan</h1>
 <h3 align="center">A technology intern and Cornell undergrad.</h3>
 
-- 🔭 I’m currently working with [Price Financial](https://www.pricefm.com) on a Google Search API Linkedin Filter Bot
+- 🔭 I’m currently working with [Price Financial](https://www.pricefm.com) on a LinkedIn Connection Automation Bot.
 
-- 🌱 I’m currently learning **C#, C++, .NET, PowerBI, Oracle, and React.js**
+- 🌱 I’m currently learning **C#, C++, .NET, PowerBI, Oracle, and React.js**.
 
-- 📫 Reach me at **eeb73@cornell.edu**
+- 📫 Reach me at **eeb73@cornell.edu**.
 
-- 📄 Know about my experiences [My Resume](https://www.linkedin.com/in/ethbak/overlay/1635529992399/single-media-viewer/?profileId=ACoAADl7IWEBK2Tbqdc--9ZwIt3cP0G4da72tqw)
+- 📄 Know about my experiences with [my resume](https://www.linkedin.com/in/ethbak/overlay/1635529992399/single-media-viewer/?profileId=ACoAADl7IWEBK2Tbqdc--9ZwIt3cP0G4da72tqw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
