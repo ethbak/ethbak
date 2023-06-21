@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **eeb73@cornell.edu**.
 
-- 📄 Know about my experiences with [my resume](https://www.linkedin.com/in/ethbak/overlay/1635529992399/single-media-viewer/?profileId=ACoAADl7IWEBK2Tbqdc--9ZwIt3cP0G4da72tqw)
+- 📄 Know about my experiences with [my resume](https://www.linkedin.com/in/ethbak/overlay/1635529992399/single-media-viewer/?profileId=ACoAADl7IWEBK2Tbqdc--9ZwIt3cP0G4da72tqw).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
