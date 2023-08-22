@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **eeb73@cornell.edu**.
 
-- 📄 Know about my experiences with [**my resume**](https://drive.google.com/file/d/1N4gF6uXObBoDUUfFWv6i-bc6X67EiRGs/view?usp=sharing).
+- 📄 Learn about my experiences with [**my resume**](https://drive.google.com/file/d/1N4gF6uXObBoDUUfFWv6i-bc6X67EiRGs/view?usp=sharing).
 
 - 💻 For a full overview of myself, visit my new [**personal website**](https://ebaker.us).
 
