@@ -1,7 +1,7 @@
 ````bash
 > help --info
 > A Cornell Undergrad and Engineer.
-> Currently working at the U.S. Department of State as a graduate Data and AI Intern.
+> Currently working at the U.S. Department of State as a Data and AI Intern.
 > Planning on completing a Cornell M.Eng. Fall 2025 and transitioning to
   full-time employment afterward.
 > See my website at https://www.ebaker.us
