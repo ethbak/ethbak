@@ -5,7 +5,7 @@
 > Planning on completing a Cornell M.Eng. Fall 2025 and transitioning to
   full-time employment afterward.
 > See my website at https://www.ebaker.us
-> Or look at my resume at https://drive.google.com/file/d/1N4gF6uXObBoDUUfFWv6i-bc6X67EiRGs/view
+> Or look at my resume at https://tinyurl.com/ethbak
 ````
 
 ````bash
