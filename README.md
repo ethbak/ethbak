@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Functional Programming with OCaml & Discrete Math**.
 
-- 🔭 This past summer, I worked with [**Price Financial Management**](https://www.pricefm.com) on a LinkedIn Connection Automation Bot.
-
 - 📫 Reach me at **eeb73@cornell.edu**.
 
 - 📄 Learn about my experiences with [**my resume**](https://drive.google.com/file/d/1N4gF6uXObBoDUUfFWv6i-bc6X67EiRGs/view?usp=sharing).
