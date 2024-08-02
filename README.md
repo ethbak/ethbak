@@ -1,7 +1,18 @@
-<h1 align="center">Hi, I'm Ethan</h1>
+````bash
+> help --info
+> A Cornell Undergrad and Engineer.
+> Currently working at the U.S. Department of State as a graduate Data and AI Intern.
+> Planning on completing a Cornell M.Eng. Fall 2025 and transitioning to
+  full-time employment afterward.
+> See more at https://www.ebaker.us
+````
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ethbak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethbak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ethanbaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swag" height="30" width="40" /></a>
-</p>
+````bash
+> help --contact
+> website: ebaker.us
+> linkedin: ethbak
+> instagram: ethanbake.r
+> github: ethbak
+> hackerrank: anishviewer
+> mailto: 1ethanbaker [at] gmail.com 
+````
