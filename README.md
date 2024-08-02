@@ -2,6 +2,7 @@
 > help --info
 > A Cornell Undergrad and Engineer.
 > Currently working at the U.S. Department of State as a Data and AI Intern.
+> Former SWE / Process Engineer at Marquardt US.
 > Planning on completing a Cornell M.Eng. Fall 2025 and transitioning to
   full-time employment afterward.
 > See my website at https://www.ebaker.us
