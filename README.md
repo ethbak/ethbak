@@ -1,9 +1,9 @@
 ````bash
 > help --info
 > A Cornell Undergrad and Engineer.
-> Currently working at the U.S. Department of State as a Data and AI Intern.
-> Former SWE at Marquardt US.
-> Planning on completing a Cornell M.Eng. Fall 2025 and transitioning to
+> Currently working at the U.S. Department of State as an AI Research Intern.
+> Former Engineer at Marquardt US.
+> Planning on completing an M.Eng. in CS in 2025 and transitioning to
   full-time employment afterward.
 > See my website at https://www.ebaker.us
 > Or look at my resume at https://tinyurl.com/ethbak
