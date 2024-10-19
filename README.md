@@ -15,6 +15,5 @@
 > linkedin: ethbak
 > instagram: ethanbake.r
 > github: ethbak
-> hackerrank: anishviewer
 > mailto: 1ethanbaker [at] gmail.com 
 ````
