@@ -1,10 +1,9 @@
 ````bash
 > help --info
-> A Cornell Grad Student and Engineer.
-> Currently working at the U.S. Department of State as an AI Research Intern.
-> Former Engineer at Marquardt US.
-> Planning to complete an M.Eng. in CS in 2025 and transitioning to
-  full-time employment afterward.
+> A Cornell Grad Student and Software Engineer.
+> Currently working at the NASA as a Software Engineer.
+> Former Software Engineer Intern at Amazon Web Services.
+> Open to entry level full-time roles in 2026.
 > See my website at https://www.ebaker.us
 > Or look at my resume at https://tinyurl.com/ethbak
 ````
