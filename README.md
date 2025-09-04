@@ -1,8 +1,8 @@
 ````bash
 > help --info
 > A Cornell Grad Student and Software Engineer.
-> Currently working at the NASA as a Software Engineer.
-> Former Software Engineer Intern at Amazon Web Services.
+> Currently working at the NASA 🚀 as a Software Engineer.
+> Former Software Engineer Intern at Amazon Web Services ☁️.
 > Open to entry level full-time roles in 2026.
 > See my website at https://www.ebaker.us
 > Or look at my resume at https://tinyurl.com/ethbak
