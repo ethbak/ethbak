@@ -104,17 +104,100 @@ However, *conditional on raising VC*, the success rates converge somewhat. The ~
 
 ---
 
+## Part 3: A More Practical Definition — Earning $1M+/Year From Your Equity
+
+The unicorn/$100M exit framing misses the broader population of entrepreneurs who build very successful, profitable businesses. A more practical "made it big" threshold: **earning $1M+ annually from your ownership stake** (e.g., owning 33% of a company generating $3M in annual profit).
+
+### What Kind of Company Gets You There?
+
+| Your Equity Stake | Required Company Annual Profit | Implied Revenue (at 20-30% margin) |
+|---|---|---|
+| 100% (bootstrapped, no co-founder) | $1M | $3-5M |
+| 50% (bootstrapped, one co-founder) | $2M | $7-10M |
+| 33% (two co-founders, no dilution) | $3M | $10-15M |
+| 25% (post-Series A typical) | $4M | $13-20M |
+| 15-20% (post-Series B typical) | $5-7M | $17-35M |
+
+### Revenue Milestone Data
+
+| Milestone | % of All Businesses That Reach It | % of Tech Startups That Reach It |
+|---|---|---|
+| $1M revenue | ~9% (JPMorgan Chase Institute) | ~4% (industry data) |
+| $3M revenue | ~3-4% (estimated) | ~2% |
+| $10M revenue | **<1%** (Census/SBA data) | ~0.4% of SaaS startups |
+| $10M+ revenue | Only ~0.4% of SaaS companies (ChartMogul) | — |
+
+### Founder Equity Dilution Reality (Carta 2025 Data)
+
+| Stage | Median Founding Team Ownership |
+|---|---|
+| Pre-funding | ~100% |
+| Post-Seed | **56%** |
+| Post-Series A | **36%** |
+| Post-Series B | **23%** |
+| Post-Series C | **15-20%** |
+
+This means a VC-backed founder at Series B who owns ~23% of the company needs the business to generate **~$4.3M in annual profit** for them to clear $1M/year — implying roughly **$15-20M in revenue** at typical tech margins.
+
+### Two Paths to $1M/Year: VC-Backed vs. Bootstrapped
+
+**Path A: VC-Backed (of 1,000 Ivy tech/eng grads)**
+
+```
+200 attempt entrepreneurship
+ └── 60 raise VC
+      └── Median ownership drops to ~25-35% by growth stage
+           └── Need company profit of $3-4M+ → revenue of $10-20M
+                └── ~10-15% of VC-backed startups reach $10M+ revenue
+                     └── ~6-9 founders clear the $1M/year threshold
+```
+
+**Path B: Bootstrapped (of the same 1,000)**
+
+```
+200 attempt entrepreneurship
+ └── 140 bootstrap or don't raise VC
+      └── Retain 50-100% ownership
+           └── Need company profit of $1-2M → revenue of $3-7M
+                └── ~5% of bootstrapped tech businesses reach $3M+ revenue
+                     └── ~7 founders clear the $1M/year threshold
+```
+
+### Combined Estimate: $1M+/Year From Equity
+
+| Metric | Estimate |
+|---|---|
+| Of Ivy tech/eng entrepreneurs who try | **~5-10%** reach $1M+/year from equity |
+| Of all Ivy tech/eng grads | **~1-2%** (roughly 1 in 50-100) |
+| General population entrepreneur equivalent | **~1-2%** of entrepreneurs, or ~0.1-0.2% of all workers |
+
+**The Ivy League advantage at this tier is roughly 5-10x the general population rate.**
+
+### Why This Tier Is More Interesting Than Unicorns
+
+- **It's 5-10x more common than unicorn outcomes** among Ivy entrepreneurs
+- **It captures bootstrapped success** — many of the wealthiest small-business owners never raise a dollar of VC and never appear in Crunchbase or PitchBook data
+- **It's achievable on multiple attempts** — the 30% success rate for serial entrepreneurs (Kauffman) means many founders hit this on their 2nd or 3rd company
+- **It includes "boring" but profitable businesses** — B2B SaaS, dev tools, consulting-turned-product, e-commerce — that never make TechCrunch but make founders rich
+- **Ivy League networks matter here too** — not just for VC access, but for landing enterprise contracts, recruiting talent, and getting warm intros to customers
+
+---
+
 ## Key Takeaways
 
 1. **~1 in 5** Ivy League tech/engineering grads will attempt entrepreneurship over their career — about 1.5-2x the national average.
 
-2. **~1 in 13** of those who try will achieve a major outcome ($100M+). That's roughly **1.5% of all Ivy League tech/engineering graduates** — or about 1 in 65.
+2. **~1 in 10-20** of those who try will earn **$1M+/year from their equity** — the "practically rich" outcome. That's roughly **1-2% of all Ivy League tech/eng grads**, or about 1 in 50-100.
 
-3. **~1 in 70-100** Ivy League tech entrepreneur attempts result in a unicorn ($1B+). That's roughly **0.2-0.3% of all Ivy League tech grads** — or about 1 in 400.
+3. **~1 in 13** of those who try will achieve a major outcome ($100M+ exit). That's roughly **1.5% of all Ivy League tech/engineering graduates** — or about 1 in 65.
 
-4. **The biggest advantage isn't higher success rates — it's access to capital.** Ivy League grads are ~15-30x more likely to raise VC than the general population. Once funded, their success/failure rates are similar to all VC-backed founders.
+4. **~1 in 70-100** Ivy League tech entrepreneur attempts result in a unicorn ($1B+). That's roughly **0.2-0.3% of all Ivy League tech grads** — or about 1 in 400.
 
-5. **Engineering schools are outpacing the Ivy League.** SignalFire's data shows the top 6 engineering schools (Stanford, MIT, Berkeley, etc.) produce more unicorn founders (16.3%) than the entire 8-school Ivy League (13.8%).
+5. **The biggest advantage isn't higher success rates — it's access to capital.** Ivy League grads are ~15-30x more likely to raise VC than the general population. Once funded, their success/failure rates are similar to all VC-backed founders.
+
+6. **Bootstrapping is an underrated path.** A founder retaining 50-100% of a $3-5M revenue business can out-earn many VC-backed founders who own 15-25% of a $20M revenue company — without the dilution, board pressure, or growth-at-all-costs mandate.
+
+7. **Engineering schools are outpacing the Ivy League.** SignalFire's data shows the top 6 engineering schools (Stanford, MIT, Berkeley, etc.) produce more unicorn founders (16.3%) than the entire 8-school Ivy League (13.8%).
 
 ---
 
@@ -138,4 +221,7 @@ This analysis triangulates across multiple datasets with different methodologies
 - Crunchbase, "Where Funded Founders Went to School" (2025 Edition)
 - PitchBook University Rankings (2024-2025)
 - U.S. Bureau of Labor Statistics, Self-Employment Data (2023-2024)
+- JPMorgan Chase Institute, "Scaling to $1 Million" (small business revenue milestones)
+- Carta, "Founder Ownership Report 2025" (equity dilution benchmarks by round)
+- ChartMogul, "SaaS Growth Report 2023" (revenue milestone attainment rates)
 - Inc. Magazine / Startup Failure Rate Statistics
